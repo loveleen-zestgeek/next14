@@ -24,6 +24,8 @@
     "zod": "^3.22.2"
   },
   "devDependencies": {
+    "@locator/babel-jsx": "^0.4.3",
+    "@locator/runtime": "^0.4.3",
     "@types/bcrypt": "^5.0.1",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.14",
